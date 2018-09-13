@@ -16,3 +16,9 @@ body {
     transform: rotate(-30deg) skew(25deg) scale(0.7);
     transition: 0.5s;
 }
+
+.container img {
+    position: absolute;
+    width: 100%;
+    transition: 0.5s;
+}
