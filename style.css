@@ -7,3 +7,12 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.container {
+    position: relative;
+    width: 360px;
+    height: 640px;
+    background: rgba(0, 0, 0, 1.0);
+    transform: rotate(-30deg) skew(25deg) scale(0.7);
+    transition: 0.5s;
+}
